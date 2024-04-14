@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on replicating basic discord website UI and I plan on building Spotify fullstack <br>👯 I’m looking to collaborate on people who wants to<br>🤝 I’m looking for help with Back-end development<br>🌱 I’m currently learning Front-End and planning to build up my portfolio this year<br>⚡ Fun fact I am a "Third-year" Computer Science student at University of the Philippines
+🔭 I’m currently working on replicating basic discord website UI and I plan on building Spotify fullstack <br>👯 I’m looking to collaborate on people who wants to create project (websites)<br>🤝 I’m looking for help with Back-end development<br>🌱 I’m currently learning Front-End and planning to build up my portfolio this year<br>⚡ Fun fact I am a "Third-year" Computer Science student at University of the Philippines
 
 
 ## 🌐 Socials:
@@ -17,4 +17,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ChrisLoui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

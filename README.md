@@ -4,6 +4,9 @@
 🔭 I am a "Third-year" Computer Science student at University of the Philippines. I’m currently working on replicating basic discord website UI and I plan on building Spotify fullstack <br>👯 I’m looking to collaborate on people who wants to create project (websites)<br>🤝 I’m looking for help with Back-end development<br>🌱 I’m currently learning Front-End and planning to build up my portfolio this year<br>⚡ Fun fact I am living with my friends with a start up called DEBMAC compose of first letters of our last names.
 <br><!> We are currently working on our first project together, and me as the project manager.<!><br> Check the project development updates here: [folderly.online](https://folderly.online/)
 
+# My Practice Websites
+(https://chris.debmac.tech/#home)
+(https://chrisdiscord.debmac.tech/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Chris Loui](https://www.facebook.com/chrisloui.canete.3) ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_chrispppp_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/CHRIS LOUI CANETE](https://www.linkedin.com/in/chris-loui-canete-228118287/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NASA_WAGMI_1007) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]([https://codepen.io/CHRIS LOUI CANETE](https://codepen.io/CHRIS-LOUI-CANETE)) 

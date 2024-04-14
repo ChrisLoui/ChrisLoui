@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I am a "Third-year" Computer Science student at University of the Philippines. I’m currently working on replicating basic discord website UI and I plan on building Spotify fullstack <br>👯 I’m looking to collaborate on people who wants to create project (websites)<br>🤝 I’m looking for help with Back-end development<br>🌱 I’m currently learning Front-End and planning to build up my portfolio this year<br>⚡ Fun fact I am living with my friends with a start up called DEBMAC compose of first letters of our last names.
-<br><!> We are currently working on our first project together, and me as the project manager.<!><br> Check the project development updates here: <a href="folderly.online">folderly</a>
+<br><!> We are currently working on our first project together, and me as the project manager.<!><br> Check the project development updates here: <a href="[folderly.online](https://folderly.online/)" target="blank">folderly</a>
 
 
 ## 🌐 Socials:

@@ -6,7 +6,8 @@
 
 # My Practice Websites
 [📖 My Portfolio](https://chris.debmac.tech/#home) <br>
-[🤓 Discord UI Practice](https://chrisdiscord.debmac.tech/)
+[🤓 Discord UI Practice](https://chrisdiscord.debmac.tech/) <br>
+<!> You can check my repo for unreleased project websites <!>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chrisloui.canete.3)

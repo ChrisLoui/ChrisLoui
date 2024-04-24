@@ -5,7 +5,7 @@
 <br><!> We are currently working on our first project together.<!><br> Check the project development updates here: [folderly.online](https://folderly.online/)
 
 # My Practice Websites
-[📖 My Portfolio]([https://chris.debmac.tech/#home](https://chrisloui.debmac.tech/)) <br>
+[📖 My Portfolio](https://chrisloui.debmac.tech/) <br>
 [🤓 Discord UI Practice](https://chrisdiscord.debmac.tech/) <br>
 <!> You can check my repos for unreleased project websites <!>
 

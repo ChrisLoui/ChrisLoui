@@ -1,13 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I am a "Third-year" Computer Science student at University of the Philippines. Currently a product owner of the developing team of foldery. <br>👯 I’m looking to collaborate on people who wants to create projects (websites)<br>🤝 I’m looking for help with Back-end development<br>🌱 I’m currently learning Front-End and planning to build up my portfolio this year<br>⚡ Fun fact I am living with my friends and we like to call ourselves DEBMAC compose of first letters of our last names.
-<br><!> We are currently working on our first project together.<!><br> Check the project development updates here: [folderly.online](https://folderly.online/)
+🔭 I am a "Third-year" Computer Science student at University of the Philippines. Currently a product owner of the developing team of foldery. <br>👯 I’m looking to collaborate on people who wants to create projects (websites)<br>🤝 Co-Founder/Project Manager/Web Developer at "Folderly". I drove my team to deliver timely iterations and prioritize features based on user feedback, ensuring "Folderly" meets market demands and user expectations.<br> Check the project development updates here: [folderly.online](https://folderly.online/)
 
-# My Practice Websites
-[📖 My Portfolio](https://chrisloui.debmac.tech/) <br>
-[🤓 Discord UI Practice](https://chrisdiscord.debmac.tech/) <br>
-<!> You can check my repos for unreleased project websites <!>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chrisloui.canete.3)

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I am a "Third-year" Computer Science student at University of the Philippines. Currently a product owner of the developing team of foldery. <br>👯 I’m looking to collaborate on people who wants to create projects (websites)<br>🤝 Co-Founder/Project Manager/Web Developer at "Folderly". I drove my team to deliver timely iterations and prioritize features based on user feedback, ensuring "Folderly" meets market demands and user expectations.<br> Check the project development updates here: [folderly.online](https://folderly.online/)
+🔭 I am a "Third-year" Computer Science student at University of the Philippines. Currently a product owner of the developing team of foldery. <br>👯 I’m desperately looking for intenrship :><br>🤝 Co-Founder/Project Manager/Web Developer at "Folderly". I drove my team to deliver timely iterations and prioritize features based on user feedback, ensuring "Folderly" meets market demands and user expectations.<br> Check the project development updates here: [folderly.online](https://folderly.online/)
 
 
 ## 🌐 Socials:

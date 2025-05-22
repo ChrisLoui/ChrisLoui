@@ -3,6 +3,9 @@
 # 💫 About Me:
 🔭 Currently a 4th year student at the University of the Philippines.<br>
 🏆 Best Product ([FOLDERLY])(https://folderly.top/) - Appcon 2023<br>
+🏆 Champion ([Filipino World])([https://folderly.top/](https://www.filipinoworld.net/)) - Flipino Homes Hackathon 2025<br>
+🏆 Champion ([GUIA])([[https://folderly.top/](https://www.filipinoworld.net/](https://www.projectguia.com/))) - Komsai Week 2025<br>
+
 📌 DEBMAC<br>
 🌐 [My Portfolio](https://chrisloui.debmac.tech/)
 

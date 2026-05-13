@@ -21,14 +21,20 @@
 
 ### 🚀 What I'm Building
 
-| Project | What it is | Stage |
-|---|---|---|
-| **[SERBIZ](https://serbiz.com)** | Flutter + Supabase gig marketplace | 150K+ users across PH & VN, zero marketing spend |
-| **[Gotch](https://gotch.dev)** | MCP automation layer for AI agents on marketplaces | YC X26 applicant |
-| **[Wishko](https://wishko.com)** | Web platform for wishing on real stars (HYG catalog) | Live, paying users |
-| **[Folderly](https://folderly.top)** | Flutter productivity app | 100K+ downloads on Google Play |
-| **[Project GUIA](https://www.projectguia.com)** | AI governance platform | Gawad Pangulo Presidential Award (UP System) |
-| **[FilipinoWorld](https://www.filipinoworld.net)** | AI property search | Filipino Homes Hackathon 2025 Champion |
+**[SERBIZ](https://serbiz.app)** — Flutter + Supabase gig marketplace. 150K+ users across PH & VN, zero marketing spend. Sole developer.  
+[📱 App Store](https://apps.apple.com/us/app/serbiz-hire-or-earn/id6753066430) · [▶️ Google Play](https://play.google.com/store/apps/details?id=com.serbiz.v2) · [🌐 Website](https://serbiz.app)
+
+**[Gotch](https://gotch.dev)** — MCP-based automation layer for AI agents to transact on marketplaces. Next.js + Supabase + pgvector. YC X26 applicant. Co-founder & CTO.
+
+**[Wishko](https://wish-ko.vercel.app)** — Wish on real stars from the HYG astronomy catalog. Next.js + React Three Fiber + Supabase. Live with paying customers.  
+[📱 App Store](https://apps.apple.com/sa/app/wishko/id6761537049) · [▶️ Google Play](https://play.google.com/store/apps/details?id=com.wishko.app) · [🌐 Web](https://wish-ko.vercel.app)
+
+**[Folderly](https://folderly.top)** — Flutter productivity app. 100K+ downloads on Google Play. Best Product, Appcon 2023.  
+[▶️ Google Play](https://play.google.com/store/apps/details?id=com.debmac.folderly&hl=en) · [🌐 Website](https://folderly.top)
+
+**[Project GUIA](https://www.projectguia.com)** — AI governance platform. Gawad Pangulo Presidential Award (UP System). React + TypeScript, led frontend.
+
+**[FilipinoWorld](https://www.filipinoworld.net)** — AI-powered property search. Filipino Homes Hackathon 2025 Champion.
 
 ---
 
